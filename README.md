@@ -25,4 +25,6 @@ In essence, this underscores the fusion of advanced technologies to streamline i
 4. Add link of your PDF and press enter for next input.
 5. Ask your query and enter for the answer.
 
+# Example Output
+
 
