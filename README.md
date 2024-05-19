@@ -26,5 +26,5 @@ In essence, this underscores the fusion of advanced technologies to streamline i
 5. Ask your query and enter for the answer.
 
 # Example Output
-
+<img width="1314" alt="Screenshot 2024-05-19 at 8 13 25 PM" src="https://github.com/bee20/Chat_App_with_Langchain/assets/13919602/77124784-d3ef-4339-9f77-a4cf6ca20e5f">
 
